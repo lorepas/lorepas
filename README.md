@@ -2,8 +2,6 @@
 
 I'm Lorenzo Pasco, I've earned a Bachelor Degree of Computer Engineering in 2019 at University of Pisa and I'm currently studying for Master Degree in Artificial Intelligence and Data Engineering at University of Pisa.
 
-Here some stats about my GitHub:
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorepas&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
