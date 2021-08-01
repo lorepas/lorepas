@@ -1,4 +1,4 @@
-### cout<<"Hello world!" 👋
+### print("Hello world!") 👋
 
 I'm Lorenzo Pasco, I've earned a Bachelor Degree of Computer Engineering in 2019 at University of Pisa and I'm currently studying for Master Degree in Artificial Intelligence and Data Engineering at University of Pisa.
 
