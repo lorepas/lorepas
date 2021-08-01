@@ -4,6 +4,9 @@ I'm Lorenzo Pasco, I've earned a Bachelor Degree of Computer Engineering in 2019
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorepas&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorepas)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **lorepas/lorepas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
