@@ -2,7 +2,7 @@
   <h1>
     Hey there! 👋
   </h1>
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif"/>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="400px"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
